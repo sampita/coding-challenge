@@ -1,25 +1,14 @@
-<p align="center">
-  <h3 align="center">Nimble Take Home Assignment (React)</h3>
+<p>
+  <h3>Nimble Take Home Assignment (React)</h3>
 
-  <p align="center">
-    Hello! Thank you for your interest in Nimble engineering. For this task, please implement a combination of React components to create a page with a list of candidates using the data found in src/data/candidates.json. Please host your code on Github and share the repo link (via email to wgray@hirenimble.com and lauren@hirenimble.com). Do as much as you can in 3 hours.
+  <p>
+    Hello! Thank you for your interest in Nimble engineering. For this task, please implement a combination of React components to create a page with a list of candidates using the data found in src/data/candidates.json.
+  </p>
+
+  <p>
+    Do as much as you can in 3 hours. Please host your code on Github and share the repo link (via email to wgray@hirenimble.com and lauren@hirenimble.com).
   </p>
 </p>
-
-
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Project](#about-the-project)
-  * [Specification](#Specification)
-  * [Screenshots](#Screenshots)
-  * [Notes](#Notes)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Contact](#contact)
 
 
 
@@ -51,20 +40,13 @@
 1. Use React hooks
 2. Use Styled Components for css
 3. Add additional functionality such as sorting, search, or filtering by status.
-
+<br />
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
 To get a local copy up and running follow these steps.
-
-### Prerequisites
-
-* [Node >= 8.10 and npm >= 5.6](https://nodejs.org/en/)
-```sh
-npm install npm -g
-```
 
 ### Installation
 
@@ -76,26 +58,11 @@ git clone https://github.com/NimbleHiring/coding-challenge.git
 ```sh
 npm install
 ```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. In the project directory, you can run:
+```sh
+yarn start
+```
+4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 
