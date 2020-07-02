@@ -3,7 +3,7 @@
   <h3 align="center">Nimble Take Home Assignment (React)</h3>
 
   <p align="center">
-    Hello! Thank you for your interest in Nimble engineering. For this task, please implement a combination of React components to create a page with a list of candidates using the data found in src/data/candidates.json. See the [specification](#Specification) and [screenshots](#Screenshots) for more detail. Please host your code on Github and share the repo link (via email to wgray@hirenimble.com and lauren@hirenimble.com). Do as much as you can in 2 hours.
+    Hello! Thank you for your interest in Nimble engineering. For this task, please implement a combination of React components to create a page with a list of candidates using the data found in src/data/candidates.json. See the <a href="#Specification">specification</a> and <a href="#Screenshots">screenshots</a> for more detail. Please host your code on Github and share the repo link (via email to wgray@hirenimble.com and lauren@hirenimble.com). Do as much as you can in 2 hours.
   </p>
 </p>
 
