@@ -7,9 +7,6 @@
   <p>
     Do as much as you can in 3 hours. Please host your code on Github and share the repo link (via email to wgray@hirenimble.com and lauren@hirenimble.com).
   </p>
-</p>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
