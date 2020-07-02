@@ -36,7 +36,8 @@
 
 ### Screenshots
 ![Product Screen Shot - default][product-screenshot-closed]
-![Product Screen Shot - expanded][product-screenshot-closed]
+
+![Product Screen Shot - expanded][product-screenshot-expanded]
 
 ### Notes
 1. Your components should work correctly in Chrome, don’t worry about cross-browser compatibility.
@@ -45,9 +46,9 @@
 6. When you're done, please write a quick post-mortem on how you approached the problem, what tradeoffs you made and why, things we should look for, etc.
 
 ### Bonus points
-1. Using React hooks
-2. Using Styled Components for css
-3. Additional functionality such as sorting, search, or filtering.
+1. Use React hooks
+2. Use Styled Components for css
+3. Add additional functionality such as sorting, search, or filtering.
 
 
 
@@ -105,7 +106,9 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 ## Contact
 
 William Gray - wgray@hirenimble.com
+<br />
 Lauren Dachille - lauren@hirenimble.com
+<br />
 Angela Rodriguez - angela@hirenimble.com
 
 
