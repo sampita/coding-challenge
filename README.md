@@ -1,9 +1,8 @@
-<br />
 <p align="center">
   <h3 align="center">Nimble Take Home Assignment (React)</h3>
 
   <p align="center">
-    Hello! Thank you for your interest in Nimble engineering. For this task, please implement a combination of React components to create a page with a list of candidates using the data found in src/data/candidates.json. See the <a href="#Specification">specification</a> and <a href="#Screenshots">screenshots</a> for more detail. Please host your code on Github and share the repo link (via email to wgray@hirenimble.com and lauren@hirenimble.com). Do as much as you can in 2 hours.
+    Hello! Thank you for your interest in Nimble engineering. For this task, please implement a combination of React components to create a page with a list of candidates using the data found in src/data/candidates.json. Please host your code on Github and share the repo link (via email to wgray@hirenimble.com and lauren@hirenimble.com). Do as much as you can in 3 hours.
   </p>
 </p>
 
@@ -29,37 +28,39 @@
 
 ### Specification
 
-1. When the user clicks a row, it should expand (or close) a list of that candidate's applications (Don't worry about schoolapplications).
-2. When the user clicks an application line item, bring up a modal/overlay that shows all of the candidate information (profile information and information specific to that application/role).
-3. Candidate status should reflect the candidate's furthest <i>active</i> status. An active status is a status with status type <u>not</u> equal to Archived or Offer declined.
-4. If you still have time left, implement sorting or some way to filter the list of candidates, such as text search or status filtering.
+1. When the user clicks a row, it should expand a list of that candidate's applications (Don't worry about schoolapplications). If the user clicks a row that is already expanded, it should close.
+2. When the user clicks an application line item, bring up a modal/overlay that shows all of the candidate information and information specific to that application/role. Some modal code has been provided in ui-kit, but feel free to use your own if you'd like.
+3. Candidate status should reflect the candidate's furthest <i>active</i> status. An active status is a status with status type <u>not</u> equal to Archived or Offer declined. Furthest status is determined by ```application.new_status._order```.
+4. Please try to make the list UI as close as possible to the screenshots.
+5. If you still have time left, implement sorting or some way to filter the list of candidates, such as text search or status filtering.
 
 ### Screenshots
-![Product Screen Shot - default][product-screenshot-closed]
+
+![Product Screen Shot - original][product-screenshot-original]
 
 ![Product Screen Shot - expanded][product-screenshot-expanded]
 
 ### Notes
-1. Your components should work correctly in Chrome, don’t worry about cross-browser compatibility.
-4. Don't worry about navbar functionality or filter functionality (unless you have extra time to add filters as mentioned above).
-5. Don't worry about getting the colors or styles exactly right, but please try to make the UI similar to the screenshots.
-6. When you're done, please write a quick post-mortem on how you approached the problem, what tradeoffs you made and why, things we should look for, etc.
+
+1. When in doubt, make an executive decision.
+2. Your components should work correctly in Chrome, don’t worry about cross-browser compatibility.
+3. Icons have been provided in ui-kit/icons.
+4. When you're done, please write a quick post-mortem on how you approached the problem, what tradeoffs you made and why, things we should look for, etc.
 
 ### Bonus points
 1. Use React hooks
 2. Use Styled Components for css
-3. Add additional functionality such as sorting, search, or filtering.
+3. Add additional functionality such as sorting, search, or filtering by status.
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+To get a local copy up and running follow these steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * [Node >= 8.10 and npm >= 5.6](https://nodejs.org/en/)
 ```sh
 npm install npm -g
@@ -96,10 +97,6 @@ You will also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
 
 
 <!-- CONTACT -->
@@ -114,5 +111,5 @@ Angela Rodriguez - angela@hirenimble.com
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot-closed]: public/closed.png
+[product-screenshot-original]: public/original.png
 [product-screenshot-expanded]: public/expanded.png
