@@ -1,0 +1,1865 @@
+{
+    "count": 216,
+    "results": [
+        {
+            "id": 34843,
+            "name": "Marlena Gawel",
+            "email": "MarlGawe9431@gmail.com",
+            "profile": {
+                "district_id": null,
+                "updated": "2019-11-22T17:30:45.403169Z",
+                "nimble_score": 6.5,
+                "phone_work": "(212) 965-9540",
+                "phone_cell": "(510) 588-2776"
+            },
+            "schoolapplications": [
+                {
+                    "id": 1504,
+                    "role": {
+                        "id": 703,
+                        "title": "Algebra 2 Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 321
+                        },
+                        "district_role": 580
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                },
+                {
+                    "id": 1505,
+                    "role": {
+                        "id": 700,
+                        "title": "Algebra 2 Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 320
+                        },
+                        "district_role": 580
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                },
+                {
+                    "id": 3734,
+                    "role": {
+                        "id": 702,
+                        "title": "7th Grade  Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 321
+                        },
+                        "district_role": 574
+                    },
+                    "new_status": {
+                        "id": 190,
+                        "label": "Hiring pool",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 2,
+                        "color": 2,
+                        "_order": 5
+                    }
+                },
+                {
+                    "id": 3735,
+                    "role": {
+                        "id": 694,
+                        "title": "7th Grade  Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 317
+                        },
+                        "district_role": 574
+                    },
+                    "new_status": {
+                        "id": 190,
+                        "label": "Hiring pool",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 2,
+                        "color": 2,
+                        "_order": 5
+                    }
+                },
+                {
+                    "id": 3736,
+                    "role": {
+                        "id": 1193,
+                        "title": "7th Grade  Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 339
+                        },
+                        "district_role": 574
+                    },
+                    "new_status": {
+                        "id": 190,
+                        "label": "Hiring pool",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 2,
+                        "color": 2,
+                        "_order": 5
+                    }
+                }
+            ],
+            "applications": [
+                {
+                    "id": 36826,
+                    "role": {
+                        "id": 574,
+                        "title": "7th Grade  Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "jobboard_title": "Nimble Public Schools"
+                    },
+                    "new_status": {
+                        "id": 190,
+                        "label": "Hiring pool",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 2,
+                        "color": 2,
+                        "_order": 5
+                    }
+                },
+                {
+                    "id": 36625,
+                    "role": {
+                        "id": 580,
+                        "title": "Algebra 2 Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "jobboard_title": "Nimble Public Schools"
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                }
+            ],
+            "scorecard_count": 3,
+            "note_count": 4
+        },
+        {
+            "id": 34844,
+            "name": "Astrid Learned",
+            "email": "AstrLear5226@gmail.com",
+            "profile": {
+                "district_id": null,
+                "updated": "2019-12-03T03:58:10.579362Z",
+                "nimble_score": 9.9,
+                "phone_work": "(212) 149-3477",
+                "phone_cell": "(510) 992-5610"
+            },
+            "schoolapplications": [
+                {
+                    "id": 3359,
+                    "role": {
+                        "id": 1190,
+                        "title": "Campus Safety Officer",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 339
+                        },
+                        "district_role": 590
+                    },
+                    "new_status": {
+                        "id": 190,
+                        "label": "Hiring pool",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 2,
+                        "color": 2,
+                        "_order": 5
+                    }
+                },
+                {
+                    "id": 3017,
+                    "role": {
+                        "id": 1112,
+                        "title": "10th Grade  Teacher (February)",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 339
+                        },
+                        "district_role": 579
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                },
+                {
+                    "id": 3019,
+                    "role": {
+                        "id": 1130,
+                        "title": "10th Grade  Teacher (February)",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 329
+                        },
+                        "district_role": 579
+                    },
+                    "new_status": {
+                        "id": 190,
+                        "label": "Hiring pool",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 2,
+                        "color": 2,
+                        "_order": 5
+                    }
+                },
+                {
+                    "id": 1636,
+                    "role": {
+                        "id": 699,
+                        "title": "10th Grade  Teacher (February)",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 319
+                        },
+                        "district_role": 579
+                    },
+                    "new_status": {
+                        "id": 190,
+                        "label": "Hiring pool",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 2,
+                        "color": 2,
+                        "_order": 5
+                    }
+                },
+                {
+                    "id": 3762,
+                    "role": {
+                        "id": 1047,
+                        "title": "Yoga Teacher (High School)",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 336
+                        },
+                        "district_role": 821
+                    },
+                    "new_status": {
+                        "id": 190,
+                        "label": "Hiring pool",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 2,
+                        "color": 2,
+                        "_order": 5
+                    }
+                },
+                {
+                    "id": 3763,
+                    "role": {
+                        "id": 1046,
+                        "title": "Yoga Teacher (High School)",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 334
+                        },
+                        "district_role": 821
+                    },
+                    "new_status": {
+                        "id": 190,
+                        "label": "Hiring pool",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 2,
+                        "color": 2,
+                        "_order": 5
+                    }
+                },
+                {
+                    "id": 3764,
+                    "role": {
+                        "id": 1048,
+                        "title": "Yoga Teacher (High School)",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 321
+                        },
+                        "district_role": 821
+                    },
+                    "new_status": {
+                        "id": 190,
+                        "label": "Hiring pool",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 2,
+                        "color": 2,
+                        "_order": 5
+                    }
+                }
+            ],
+            "applications": [
+                {
+                    "id": 36626,
+                    "role": {
+                        "id": 579,
+                        "title": "10th Grade  Teacher (February)",
+                        "status": 20,
+                        "active_status": 1,
+                        "jobboard_title": "Nimble Public Schools"
+                    },
+                    "new_status": {
+                        "id": 190,
+                        "label": "Hiring pool",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 2,
+                        "color": 2,
+                        "_order": 5
+                    }
+                },
+                {
+                    "id": 37628,
+                    "role": {
+                        "id": 590,
+                        "title": "Campus Safety Officer",
+                        "status": 20,
+                        "active_status": 1,
+                        "jobboard_title": "Nimble Public Schools"
+                    },
+                    "new_status": {
+                        "id": 190,
+                        "label": "Hiring pool",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 2,
+                        "color": 2,
+                        "_order": 5
+                    }
+                },
+                {
+                    "id": 37618,
+                    "role": {
+                        "id": 821,
+                        "title": "Yoga Teacher (High School)",
+                        "status": 20,
+                        "active_status": 1,
+                        "jobboard_title": "Nimble Public Schools"
+                    },
+                    "new_status": {
+                        "id": 190,
+                        "label": "Hiring pool",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 2,
+                        "color": 2,
+                        "_order": 5
+                    }
+                }
+            ],
+            "scorecard_count": 3,
+            "note_count": 4
+        },
+        {
+            "id": 34845,
+            "name": "Shaunna Kardashian",
+            "email": "ShauKard6426@gmail.com",
+            "profile": {
+                "district_id": null,
+                "updated": "2019-10-24T20:27:02.127360Z",
+                "nimble_score": 4.6,
+                "phone_work": "(415) 914-5975",
+                "phone_cell": "(718) 158-5410"
+            },
+            "schoolapplications": [
+                {
+                    "id": 3601,
+                    "role": {
+                        "id": 1265,
+                        "title": "Food Service Worker",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 339
+                        },
+                        "district_role": 898
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                },
+                {
+                    "id": 3317,
+                    "role": {
+                        "id": 1251,
+                        "title": "2nd Grade  Teacher - Custom Workflow",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 321
+                        },
+                        "district_role": 577
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                },
+                {
+                    "id": 3319,
+                    "role": {
+                        "id": 1250,
+                        "title": "2nd Grade  Teacher - Custom Workflow",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 343
+                        },
+                        "district_role": 577
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                },
+                {
+                    "id": 3603,
+                    "role": {
+                        "id": 1267,
+                        "title": "Food Service Worker",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 332
+                        },
+                        "district_role": 898
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                },
+                {
+                    "id": 3307,
+                    "role": {
+                        "id": 1249,
+                        "title": "2nd Grade  Teacher - Custom Workflow",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 342
+                        },
+                        "district_role": 577
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                },
+                {
+                    "id": 3602,
+                    "role": {
+                        "id": 1266,
+                        "title": "Food Service Worker",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 323
+                        },
+                        "district_role": 898
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                },
+                {
+                    "id": 3105,
+                    "role": {
+                        "id": 1101,
+                        "title": "2nd Grade  Teacher - Custom Workflow",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 339
+                        },
+                        "district_role": 577
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                },
+                {
+                    "id": 3106,
+                    "role": {
+                        "id": 1020,
+                        "title": "2nd Grade  Teacher - Custom Workflow",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 317
+                        },
+                        "district_role": 577
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                }
+            ],
+            "applications": [
+                {
+                    "id": 36628,
+                    "role": {
+                        "id": 577,
+                        "title": "2nd Grade  Teacher - Custom Workflow",
+                        "status": 20,
+                        "active_status": 1,
+                        "jobboard_title": "Nimble Public Schools"
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                },
+                {
+                    "id": 37728,
+                    "role": {
+                        "id": 898,
+                        "title": "Food Service Worker",
+                        "status": 20,
+                        "active_status": 1,
+                        "jobboard_title": "Nimble Public Schools"
+                    },
+                    "new_status": {
+                        "id": 254,
+                        "label": "Onboarding Status",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": false,
+                        "school_admin_move_district": false,
+                        "status_type": 7,
+                        "color": 3,
+                        "_order": 13
+                    }
+                }
+            ],
+            "scorecard_count": 2,
+            "note_count": 1
+        },
+        {
+            "id": 34846,
+            "name": "Seymour Hazlitt",
+            "email": "SeymHazl4030@gmail.com",
+            "profile": {
+                "district_id": null,
+                "updated": "2020-02-28T23:03:39.495966Z",
+                "nimble_score": 9.4,
+                "phone_work": "(212) 846-5046",
+                "phone_cell": "(718) 664-1837"
+            },
+            "schoolapplications": [],
+            "applications": [
+                {
+                    "id": 36629,
+                    "role": {
+                        "id": 577,
+                        "title": "2nd Grade  Teacher - Custom Workflow",
+                        "status": 20,
+                        "active_status": 1,
+                        "jobboard_title": "Nimble Public Schools"
+                    },
+                    "new_status": {
+                        "id": 277,
+                        "label": "Phone screen invited",
+                        "school_admin_view_access": false,
+                        "school_admin_move_access": false,
+                        "school_admin_move_district": false,
+                        "status_type": 1,
+                        "color": 3,
+                        "_order": 2
+                    }
+                }
+            ],
+            "scorecard_count": 0,
+            "note_count": 0
+        },
+        {
+            "id": 34848,
+            "name": "Kiesha Danielson",
+            "email": "KiesDani3091@gmail.com",
+            "profile": {
+                "district_id": null,
+                "updated": "2019-02-12T00:06:34.822589Z",
+                "nimble_score": 3.9,
+                "phone_work": "(212) 841-8387",
+                "phone_cell": "(718) 845-9355"
+            },
+            "schoolapplications": [
+                {
+                    "id": 1556,
+                    "role": {
+                        "id": 703,
+                        "title": "Algebra 2 Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 321
+                        },
+                        "district_role": 580
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                },
+                {
+                    "id": 1557,
+                    "role": {
+                        "id": 700,
+                        "title": "Algebra 2 Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 320
+                        },
+                        "district_role": 580
+                    },
+                    "new_status": {
+                        "id": 196,
+                        "label": "Hired",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": false,
+                        "school_admin_move_district": false,
+                        "status_type": 4,
+                        "color": 2,
+                        "_order": 11
+                    }
+                },
+                {
+                    "id": 1555,
+                    "role": {
+                        "id": 694,
+                        "title": "7th Grade  Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 317
+                        },
+                        "district_role": 574
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                },
+                {
+                    "id": 1554,
+                    "role": {
+                        "id": 702,
+                        "title": "7th Grade  Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 321
+                        },
+                        "district_role": 574
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                }
+            ],
+            "applications": [
+                {
+                    "id": 36631,
+                    "role": {
+                        "id": 574,
+                        "title": "7th Grade  Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "jobboard_title": "Nimble Public Schools"
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                },
+                {
+                    "id": 36855,
+                    "role": {
+                        "id": 580,
+                        "title": "Algebra 2 Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "jobboard_title": "Nimble Public Schools"
+                    },
+                    "new_status": {
+                        "id": 196,
+                        "label": "Hired",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": false,
+                        "school_admin_move_district": false,
+                        "status_type": 4,
+                        "color": 2,
+                        "_order": 11
+                    }
+                }
+            ],
+            "scorecard_count": 0,
+            "note_count": 1
+        },
+        {
+            "id": 34849,
+            "name": "Astrid Mcferrin",
+            "email": "AstrMcfe4189@gmail.com",
+            "profile": {
+                "district_id": null,
+                "updated": "2019-11-20T20:24:18.288940Z",
+                "nimble_score": 4.7,
+                "phone_work": "(212) 560-2401",
+                "phone_cell": "(510) 612-2715"
+            },
+            "schoolapplications": [
+                {
+                    "id": 1542,
+                    "role": {
+                        "id": 694,
+                        "title": "7th Grade  Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 317
+                        },
+                        "district_role": 574
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                },
+                {
+                    "id": 1541,
+                    "role": {
+                        "id": 702,
+                        "title": "7th Grade  Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 321
+                        },
+                        "district_role": 574
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                },
+                {
+                    "id": 3728,
+                    "role": {
+                        "id": 1193,
+                        "title": "7th Grade  Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 339
+                        },
+                        "district_role": 574
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                }
+            ],
+            "applications": [
+                {
+                    "id": 36632,
+                    "role": {
+                        "id": 574,
+                        "title": "7th Grade  Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "jobboard_title": "Nimble Public Schools"
+                    },
+                    "new_status": {
+                        "id": 196,
+                        "label": "Hired",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": false,
+                        "school_admin_move_district": false,
+                        "status_type": 4,
+                        "color": 2,
+                        "_order": 11
+                    }
+                }
+            ],
+            "scorecard_count": 1,
+            "note_count": 0
+        },
+        {
+            "id": 34853,
+            "name": "Xavier Mcthay",
+            "email": "XaviMcth8504@gmail.com",
+            "profile": {
+                "district_id": null,
+                "updated": "2019-08-06T15:56:28.787347Z",
+                "nimble_score": 9.7,
+                "phone_work": "(415) 844-2538",
+                "phone_cell": "(510) 459-6324"
+            },
+            "schoolapplications": [
+                {
+                    "id": 1491,
+                    "role": {
+                        "id": 703,
+                        "title": "Algebra 2 Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 321
+                        },
+                        "district_role": 580
+                    },
+                    "new_status": {
+                        "id": 193,
+                        "label": "Selection made",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": false,
+                        "status_type": 3,
+                        "color": 2,
+                        "_order": 8
+                    }
+                },
+                {
+                    "id": 1492,
+                    "role": {
+                        "id": 700,
+                        "title": "Algebra 2 Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 320
+                        },
+                        "district_role": 580
+                    },
+                    "new_status": {
+                        "id": 193,
+                        "label": "Selection made",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": false,
+                        "status_type": 3,
+                        "color": 2,
+                        "_order": 8
+                    }
+                }
+            ],
+            "applications": [
+                {
+                    "id": 36635,
+                    "role": {
+                        "id": 580,
+                        "title": "Algebra 2 Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "jobboard_title": "Nimble Public Schools"
+                    },
+                    "new_status": {
+                        "id": 193,
+                        "label": "Selection made",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": false,
+                        "status_type": 3,
+                        "color": 2,
+                        "_order": 8
+                    }
+                },
+                {
+                    "id": 37607,
+                    "role": {
+                        "id": 582,
+                        "title": "Certified School Nurse",
+                        "status": 20,
+                        "active_status": 1,
+                        "jobboard_title": "Nimble Public Schools"
+                    },
+                    "new_status": {
+                        "id": 278,
+                        "label": "Phone screen scheduled",
+                        "school_admin_view_access": false,
+                        "school_admin_move_access": false,
+                        "school_admin_move_district": false,
+                        "status_type": 1,
+                        "color": 3,
+                        "_order": 3
+                    }
+                }
+            ],
+            "scorecard_count": 0,
+            "note_count": 0
+        },
+        {
+            "id": 34854,
+            "name": "Owen Ramirez",
+            "email": "OwenRami5266@gmail.com",
+            "profile": {
+                "district_id": null,
+                "updated": "2019-07-20T00:37:27.332249Z",
+                "nimble_score": 7.6,
+                "phone_work": "(415) 913-2807",
+                "phone_cell": "(718) 531-9919"
+            },
+            "schoolapplications": [
+                {
+                    "id": 1649,
+                    "role": {
+                        "id": 699,
+                        "title": "10th Grade  Teacher (February)",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 319
+                        },
+                        "district_role": 579
+                    },
+                    "new_status": {
+                        "id": 196,
+                        "label": "Hired",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": false,
+                        "school_admin_move_district": false,
+                        "status_type": 4,
+                        "color": 2,
+                        "_order": 11
+                    }
+                },
+                {
+                    "id": 2795,
+                    "role": {
+                        "id": 1100,
+                        "title": "10th Grade  Teacher (February)",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 321
+                        },
+                        "district_role": 579
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                }
+            ],
+            "applications": [
+                {
+                    "id": 36636,
+                    "role": {
+                        "id": 579,
+                        "title": "10th Grade  Teacher (February)",
+                        "status": 20,
+                        "active_status": 1,
+                        "jobboard_title": "Nimble Public Schools"
+                    },
+                    "new_status": {
+                        "id": 196,
+                        "label": "Hired",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": false,
+                        "school_admin_move_district": false,
+                        "status_type": 4,
+                        "color": 2,
+                        "_order": 11
+                    }
+                }
+            ],
+            "scorecard_count": 1,
+            "note_count": 0
+        },
+        {
+            "id": 34857,
+            "name": "Autumn Dues",
+            "email": "AutuDues1238@gmail.com",
+            "profile": {
+                "district_id": null,
+                "updated": "2019-07-05T23:46:17.247202Z",
+                "nimble_score": 8.4,
+                "phone_work": "(415) 446-7612",
+                "phone_cell": "(510) 707-8080"
+            },
+            "schoolapplications": [
+                {
+                    "id": 1415,
+                    "role": {
+                        "id": 696,
+                        "title": "9th Grade  Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 319
+                        },
+                        "district_role": 576
+                    },
+                    "new_status": {
+                        "id": 190,
+                        "label": "Hiring pool",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 2,
+                        "color": 2,
+                        "_order": 5
+                    }
+                },
+                {
+                    "id": 1519,
+                    "role": {
+                        "id": 704,
+                        "title": "9th Grade  Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 321
+                        },
+                        "district_role": 576
+                    },
+                    "new_status": {
+                        "id": 190,
+                        "label": "Hiring pool",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 2,
+                        "color": 2,
+                        "_order": 5
+                    }
+                },
+                {
+                    "id": 2672,
+                    "role": {
+                        "id": 1082,
+                        "title": "9th Grade  Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 334
+                        },
+                        "district_role": 576
+                    },
+                    "new_status": {
+                        "id": 190,
+                        "label": "Hiring pool",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 2,
+                        "color": 2,
+                        "_order": 5
+                    }
+                }
+            ],
+            "applications": [
+                {
+                    "id": 36639,
+                    "role": {
+                        "id": 576,
+                        "title": "9th Grade  Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "jobboard_title": "Nimble Public Schools"
+                    },
+                    "new_status": {
+                        "id": 190,
+                        "label": "Hiring pool",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 2,
+                        "color": 2,
+                        "_order": 5
+                    }
+                }
+            ],
+            "scorecard_count": 0,
+            "note_count": 0
+        },
+        {
+            "id": 34859,
+            "name": "Heather Dalba",
+            "email": "HeatDalb4289@gmail.com",
+            "profile": {
+                "district_id": null,
+                "updated": "2019-08-05T21:37:11.271558Z",
+                "nimble_score": 9.2,
+                "phone_work": "(212) 731-2593",
+                "phone_cell": "(718) 879-1305"
+            },
+            "schoolapplications": [],
+            "applications": [
+                {
+                    "id": 36642,
+                    "role": {
+                        "id": 574,
+                        "title": "7th Grade  Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "jobboard_title": "Nimble Public Schools"
+                    },
+                    "new_status": {
+                        "id": 278,
+                        "label": "Phone screen scheduled",
+                        "school_admin_view_access": false,
+                        "school_admin_move_access": false,
+                        "school_admin_move_district": false,
+                        "status_type": 1,
+                        "color": 3,
+                        "_order": 3
+                    }
+                }
+            ],
+            "scorecard_count": 0,
+            "note_count": 0
+        },
+        {
+            "id": 34863,
+            "name": "Regan Mcferrin",
+            "email": "RegaMcfe7367@gmail.com",
+            "profile": {
+                "district_id": null,
+                "updated": "2019-10-10T23:35:37.113638Z",
+                "nimble_score": 8.5,
+                "phone_work": "(212) 359-1949",
+                "phone_cell": "(510) 323-4132"
+            },
+            "schoolapplications": [
+                {
+                    "id": 2797,
+                    "role": {
+                        "id": 1100,
+                        "title": "10th Grade  Teacher (February)",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 321
+                        },
+                        "district_role": 579
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                },
+                {
+                    "id": 1487,
+                    "role": {
+                        "id": 703,
+                        "title": "Algebra 2 Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 321
+                        },
+                        "district_role": 580
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                },
+                {
+                    "id": 1488,
+                    "role": {
+                        "id": 700,
+                        "title": "Algebra 2 Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 320
+                        },
+                        "district_role": 580
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                },
+                {
+                    "id": 1582,
+                    "role": {
+                        "id": 699,
+                        "title": "10th Grade  Teacher (February)",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 319
+                        },
+                        "district_role": 579
+                    },
+                    "new_status": {
+                        "id": 193,
+                        "label": "Selection made",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": false,
+                        "status_type": 3,
+                        "color": 2,
+                        "_order": 8
+                    }
+                }
+            ],
+            "applications": [
+                {
+                    "id": 36645,
+                    "role": {
+                        "id": 579,
+                        "title": "10th Grade  Teacher (February)",
+                        "status": 20,
+                        "active_status": 1,
+                        "jobboard_title": "Nimble Public Schools"
+                    },
+                    "new_status": {
+                        "id": 193,
+                        "label": "Selection made",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": false,
+                        "status_type": 3,
+                        "color": 2,
+                        "_order": 8
+                    }
+                },
+                {
+                    "id": 36644,
+                    "role": {
+                        "id": 580,
+                        "title": "Algebra 2 Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "jobboard_title": "Nimble Public Schools"
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                }
+            ],
+            "scorecard_count": 0,
+            "note_count": 0
+        },
+        {
+            "id": 34864,
+            "name": "Venice Heatwole",
+            "email": "VeniHeat5531@gmail.com",
+            "profile": {
+                "district_id": null,
+                "updated": "2019-07-15T20:04:56.980263Z",
+                "nimble_score": 8.6,
+                "phone_work": "(212) 105-6155",
+                "phone_cell": "(510) 674-8036"
+            },
+            "schoolapplications": [
+                {
+                    "id": 1587,
+                    "role": {
+                        "id": 699,
+                        "title": "10th Grade  Teacher (February)",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 319
+                        },
+                        "district_role": 579
+                    },
+                    "new_status": {
+                        "id": 190,
+                        "label": "Hiring pool",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 2,
+                        "color": 2,
+                        "_order": 5
+                    }
+                },
+                {
+                    "id": 2825,
+                    "role": {
+                        "id": 1100,
+                        "title": "10th Grade  Teacher (February)",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 321
+                        },
+                        "district_role": 579
+                    },
+                    "new_status": {
+                        "id": 190,
+                        "label": "Hiring pool",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 2,
+                        "color": 2,
+                        "_order": 5
+                    }
+                },
+                {
+                    "id": 3072,
+                    "role": {
+                        "id": 1151,
+                        "title": "10th Grade  Teacher (February)",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 322
+                        },
+                        "district_role": 579
+                    },
+                    "new_status": {
+                        "id": 190,
+                        "label": "Hiring pool",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 2,
+                        "color": 2,
+                        "_order": 5
+                    }
+                },
+                {
+                    "id": 3071,
+                    "role": {
+                        "id": 1112,
+                        "title": "10th Grade  Teacher (February)",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 339
+                        },
+                        "district_role": 579
+                    },
+                    "new_status": {
+                        "id": 190,
+                        "label": "Hiring pool",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 2,
+                        "color": 2,
+                        "_order": 5
+                    }
+                }
+            ],
+            "applications": [
+                {
+                    "id": 36646,
+                    "role": {
+                        "id": 579,
+                        "title": "10th Grade  Teacher (February)",
+                        "status": 20,
+                        "active_status": 1,
+                        "jobboard_title": "Nimble Public Schools"
+                    },
+                    "new_status": {
+                        "id": 190,
+                        "label": "Hiring pool",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 2,
+                        "color": 2,
+                        "_order": 5
+                    }
+                }
+            ],
+            "scorecard_count": 0,
+            "note_count": 0
+        },
+        {
+            "id": 34866,
+            "name": "Carter Baltrip",
+            "email": "CartBalt6245@gmail.com",
+            "profile": {
+                "district_id": null,
+                "updated": "2019-10-10T16:57:07.600798Z",
+                "nimble_score": 9.5,
+                "phone_work": "(212) 748-6768",
+                "phone_cell": "(510) 523-1600"
+            },
+            "schoolapplications": [
+                {
+                    "id": 1416,
+                    "role": {
+                        "id": 696,
+                        "title": "9th Grade  Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 319
+                        },
+                        "district_role": 576
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                },
+                {
+                    "id": 1529,
+                    "role": {
+                        "id": 704,
+                        "title": "9th Grade  Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 321
+                        },
+                        "district_role": 576
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                },
+                {
+                    "id": 3497,
+                    "role": {
+                        "id": 1111,
+                        "title": "5th Grade Karate Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 339
+                        },
+                        "district_role": 787
+                    },
+                    "new_status": {
+                        "id": 190,
+                        "label": "Hiring pool",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 2,
+                        "color": 2,
+                        "_order": 5
+                    }
+                },
+                {
+                    "id": 3184,
+                    "role": {
+                        "id": 1080,
+                        "title": "5th Grade Karate Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 334
+                        },
+                        "district_role": 787
+                    },
+                    "new_status": {
+                        "id": 190,
+                        "label": "Hiring pool",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 2,
+                        "color": 2,
+                        "_order": 5
+                    }
+                },
+                {
+                    "id": 2684,
+                    "role": {
+                        "id": 1082,
+                        "title": "9th Grade  Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 334
+                        },
+                        "district_role": 576
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                }
+            ],
+            "applications": [
+                {
+                    "id": 36650,
+                    "role": {
+                        "id": 576,
+                        "title": "9th Grade  Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "jobboard_title": "Nimble Public Schools"
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                },
+                {
+                    "id": 36649,
+                    "role": {
+                        "id": 577,
+                        "title": "2nd Grade  Teacher - Custom Workflow",
+                        "status": 20,
+                        "active_status": 1,
+                        "jobboard_title": "Nimble Public Schools"
+                    },
+                    "new_status": {
+                        "id": 197,
+                        "label": "Archived",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 5,
+                        "color": 1,
+                        "_order": 15
+                    }
+                },
+                {
+                    "id": 37643,
+                    "role": {
+                        "id": 787,
+                        "title": "5th Grade Karate Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "jobboard_title": "Nimble Public Schools"
+                    },
+                    "new_status": {
+                        "id": 190,
+                        "label": "Hiring pool",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 2,
+                        "color": 2,
+                        "_order": 5
+                    }
+                }
+            ],
+            "scorecard_count": 0,
+            "note_count": 1
+        },
+        {
+            "id": 34867,
+            "name": "Brynn Wilker",
+            "email": "BrynWilk5790@gmail.com",
+            "profile": {
+                "district_id": null,
+                "updated": "2019-09-10T23:03:31.449289Z",
+                "nimble_score": 3.4,
+                "phone_work": "(212) 210-4728",
+                "phone_cell": "(718) 214-4289"
+            },
+            "schoolapplications": [
+                {
+                    "id": 1503,
+                    "role": {
+                        "id": 696,
+                        "title": "9th Grade  Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 319
+                        },
+                        "district_role": 576
+                    },
+                    "new_status": {
+                        "id": 193,
+                        "label": "Selection made",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": false,
+                        "status_type": 3,
+                        "color": 2,
+                        "_order": 8
+                    }
+                },
+                {
+                    "id": 1516,
+                    "role": {
+                        "id": 704,
+                        "title": "9th Grade  Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 321
+                        },
+                        "district_role": 576
+                    },
+                    "new_status": {
+                        "id": 190,
+                        "label": "Hiring pool",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": true,
+                        "status_type": 2,
+                        "color": 2,
+                        "_order": 5
+                    }
+                },
+                {
+                    "id": 2667,
+                    "role": {
+                        "id": 1082,
+                        "title": "9th Grade  Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "school": {
+                            "id": 334
+                        },
+                        "district_role": 576
+                    },
+                    "new_status": {
+                        "id": 193,
+                        "label": "Selection made",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": false,
+                        "status_type": 3,
+                        "color": 2,
+                        "_order": 8
+                    }
+                }
+            ],
+            "applications": [
+                {
+                    "id": 36651,
+                    "role": {
+                        "id": 576,
+                        "title": "9th Grade  Teacher",
+                        "status": 20,
+                        "active_status": 1,
+                        "jobboard_title": "Nimble Public Schools"
+                    },
+                    "new_status": {
+                        "id": 193,
+                        "label": "Selection made",
+                        "school_admin_view_access": true,
+                        "school_admin_move_access": true,
+                        "school_admin_move_district": false,
+                        "status_type": 3,
+                        "color": 2,
+                        "_order": 8
+                    }
+                }
+            ],
+            "scorecard_count": 0,
+            "note_count": 1
+        }
+    ]
+}
