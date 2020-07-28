@@ -11,13 +11,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-### Specification
+### Specification (in order of priority)
 
-1. When the user clicks a row, it should expand a list of that candidate's applications (Don't worry about schoolapplications). If the user clicks a row that is already expanded, it should close.
+1. When the user clicks a row in the list of candidates, it should expand a list of that candidate's applications (don't worry about schoolapplications). If the user clicks a row that is already expanded, it should close the list of that candidate's applications.
 2. When the user clicks an application line item, bring up a modal/overlay that shows all of the candidate information and information specific to that application/role. Some modal code has been provided in ui-kit, but feel free to use your own if you'd like.
-3. Candidate status should reflect the candidate's furthest <i>active</i> status. An active status is a status with status type <u>not</u> equal to Archived or Offer declined. Furthest status is determined by ```application.new_status._order```.
-4. Please try to make the list UI as close as possible to the screenshots.
-5. If you still have time left, implement sorting or some way to filter the list of candidates, such as text search or status filtering.
+3. If you have time left, try to make the list UI as close as possible to the screenshots.
+4. If you still have time left, implement sorting or some way to filter the list of candidates, such as text search or status filtering.
 
 ### Screenshots
 
@@ -31,11 +30,6 @@
 2. Your components should work correctly in Chrome, don’t worry about cross-browser compatibility.
 3. Icons have been provided in ui-kit/icons.
 4. When you're done, please write a quick post-mortem on how you approached the problem, what tradeoffs you made and why, things we should look for, etc.
-
-### Bonus points
-1. Use React hooks
-2. Use Styled Components for css
-3. Add additional functionality such as sorting, search, or filtering by status.
 <br />
 
 
