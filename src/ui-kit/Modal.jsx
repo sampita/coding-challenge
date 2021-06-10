@@ -4,6 +4,15 @@ import styled from 'styled-components';
 import { useOnClickOutside, useOnKeyEvent } from 'hooks';
 import { BaseModal } from './BaseModal';
 
+/**
+ * Usage:
+ * <Modal.Modal>
+ *   <Modal.Title>Hello</Modal.Title>
+ *   <Modal.Body>I am a modal.</Modal.Body>
+ *   <Modal.Actions><button>Click me!!</button></Modal.Actions>
+ * </Modal.Modal>
+ *
+ */
 const Modal = ({
   isOpen,
   onClose,
