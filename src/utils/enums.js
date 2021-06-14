@@ -1,9 +1,12 @@
 export const colorMapping = {
-  1: 'red',
-  2: 'green',
-  3: 'blue',
-  4: 'yellow'
+  1: 'red', // #00b88d;
+  2: 'green', // #304b7d;
+  3: 'blue', // #ef5675;
+  4: 'yellow' // #ffa601;
 };
+
+// background: #f8f8f8;
+// line-item border-bottom: 1px solid rgb(221, 221, 221);
 
 export const roleStatuses = () => [
   { key: 0, value: 'draft', label: 'Draft' },
@@ -11,14 +14,3 @@ export const roleStatuses = () => [
   { key: 20, value: 'active', label: 'Active' },
   { key: 30, value: 'archived', label: 'Archived' }
 ];
-
-export const appStatusType = {
-  draft: 0,
-  pre_hiring_pool: 1,
-  hiring_pool: 2,
-  post_hiring_pool: 3,
-  hired: 4,
-  archived: 5,
-  offer_declined: 6,
-  onboarding: 7
-};

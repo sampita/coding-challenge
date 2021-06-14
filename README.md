@@ -5,7 +5,7 @@
   </p>
 
   <p>
-    Please host your code on Github and share the repo link via email to wgray@hirenimble.com and lauren@hirenimble.com.
+    Please host your code on Github (or something similar) and share the repo link via email to wgray@hirenimble.com and lauren@hirenimble.com. Good luck!
   </p>
 
 <!-- ABOUT THE PROJECT -->
@@ -14,7 +14,7 @@
 ### Specification
 
 1. When the user clicks a row in the list of candidates, it should expand a list of that candidate's applications. If the user clicks a row that is already expanded, it should close the list of that candidate's applications.
-2. When the user clicks an application line item, bring up a modal/overlay that shows all of the candidate information and information specific to that application/role. Some modal code has been provided in src/ui-kit/Modal.jsx, but feel free to use your own if you'd like.
+2. When the user clicks an application line item, bring up a modal/overlay that shows the candidate information and information specific to that application/role. Modal code has been provided in src/ui-kit/Modal.jsx, but feel free to use your own if you'd like.
 
 ### Screenshots
 
@@ -24,8 +24,11 @@
 
 ### Notes
 
-1. Icons have been provided in ui-kit/icons.
-2. When you're done, please write a quick post-mortem on how you approached the problem, what tradeoffs you made and why, things we should look for, etc.
+- Icons have been provided in ui-kit/icons.
+- Enum mapping and some colors are provided in src/utils/enums.js.
+- The styled-components library is included in the package.json file, so feel free to use that for styling if you'd like.
+- For the Last Updated column, moment.js is included if you want to use it, but don't worry about getting that section exactly right. Feel free to display the last updated date any way you prefer.
+- When you're done, please write a quick post-mortem -- any tradeoffs you made and why, things we should look for, etc.
 <br />
 
 
