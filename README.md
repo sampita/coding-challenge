@@ -40,7 +40,7 @@ To get a local copy up and running follow these steps.
 ```sh
 git clone https://github.com/NimbleHiring/coding-challenge.git
 ```
-2. Install NPM packages
+2. In the root directory of the repo, install NPM packages
 ```sh
 npm install
 ```
