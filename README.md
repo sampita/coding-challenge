@@ -1,4 +1,4 @@
-# Nimble Take Home Assignment (React)
+# Nimble Technical Exercise (React)
 <p>
   <p>
     Thank you for your interest in Nimble! For this task, please implement a combination of React components to create a page with a list of candidates using the data found in src/data/candidates.json.
@@ -25,8 +25,8 @@
 ### Notes
 
 - Icons have been provided in ui-kit/icons.
-- Enum mapping and some colors are provided in src/utils/enums.js.
-- The styled-components library is included in the package.json file, so feel free to use that for styling if you'd like.
+- Enum mappings and some colors are provided in src/utils/enums.js.
+- The styled-components library is included in the package.json file. Feel free to use that for styling if you'd like.
 - For the Last Updated column, moment.js is included if you want to use it, but don't worry about getting that section exactly right. Feel free to display the last updated date any way you prefer.
 - When you're done, please write a quick post-mortem -- any tradeoffs you made and why, things we should look for, etc.
 <br />
