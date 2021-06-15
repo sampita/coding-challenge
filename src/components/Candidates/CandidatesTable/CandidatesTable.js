@@ -38,6 +38,7 @@ function CandidatesTable() {
   const classes = useStyles()
   const [candidates, setCandidates] = useState([])
   const [expand, setExpand] = useState(false)
+  const [selectAll, setSelectAll] = useState(false)
 
     useEffect(() => {
         api.getCandidates().then((response) => setCandidates(response))
@@ -58,7 +59,7 @@ function CandidatesTable() {
         <TableHead style={{ padding: "0px" }}>
           <TableRow>
             <TableCell className={classes.tableCell} padding="none">
-              <Checkbox/>
+              <Checkbox checked={selectAll} onChange={() => setSelectAll(!selectAll)}/>
             </TableCell>
             <TableCell className={classes.tableCell} padding="none">
               Candidate Name
@@ -81,6 +82,7 @@ function CandidatesTable() {
           {candidates.map((candidate) => (
             <CandidatesTableRow
               expand={expand}
+              selectAll={selectAll}
               key={candidate.id}
               candidate={candidate}
             />

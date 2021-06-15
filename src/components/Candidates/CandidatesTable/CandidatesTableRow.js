@@ -17,13 +17,18 @@ import AddCircleOutlineOutlinedIcon from '@material-ui/icons/AddCircleOutlineOut
 import RemoveOutlinedIcon from '@material-ui/icons/RemoveOutlined'
 import moment from 'moment'
 
-const CandidatesTableRow = ({ candidate, expand }) => {
+const CandidatesTableRow = ({ candidate, expand, selectAll }) => {
 
     const [expanded, setExpanded] = useState(false)
-
+    const [selected, setSelected] = useState(false)
+    
     useEffect(() => {
         setExpanded(expand ? true : false)
       }, [expand])
+
+    useEffect(() => {
+        setSelected(selected ? true : false)
+      }, [selected])
     
       return (
         <>
@@ -31,7 +36,7 @@ const CandidatesTableRow = ({ candidate, expand }) => {
         //   className={classes.root} style={rowStyle}
           > 
             <TableCell>
-              <Checkbox />
+              <Checkbox checked={selectAll ? true : selected}/>
             </TableCell>
             <TableCell>
               {candidate?.name}
