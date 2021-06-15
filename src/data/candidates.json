@@ -1,8 +1,10 @@
 {
-    "count": 45,
-    "page": 1,
-    "num_pages": 8,
-    "previous": null,
+    "response_info": {
+        "count": 45,
+        "page": 1,
+        "num_pages": 8,
+        "previous": null
+        },
     "results": [
         {
             "id": 34821,
