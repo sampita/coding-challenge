@@ -77,7 +77,7 @@ function CandidatesTable() {
             </TableCell>
           </TableRow>
         </TableHead>
-        {/* <TableBody>
+        <TableBody>
           {candidates.map((candidate) => (
             <CandidatesTableRow
               expand={expand}
@@ -85,7 +85,7 @@ function CandidatesTable() {
               candidate={candidate}
             />
           ))}
-        </TableBody> */}
+        </TableBody>
       </Table>
     </TableContainer>
   )

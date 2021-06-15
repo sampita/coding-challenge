@@ -1,11 +1,21 @@
 import React, { useState, useEffect } from 'react'
 
-import Table from '@material-ui/core/Table'
-import TableBody from '@material-ui/core/TableBody'
-import TableCell from '@material-ui/core/TableCell'
-import TableHead from '@material-ui/core/TableHead'
-import TableRow from '@material-ui/core/TableRow'
+import {
+    Button,
+    Checkbox,
+    Paper,
+    Table,
+    TableBody,
+    TableCell,
+    TableContainer,
+    TableHead,
+    TableRow,
+    Typography,
+  } from "@material-ui/core"
 import { makeStyles } from '@material-ui/core/styles'
+import AddCircleOutlineOutlinedIcon from '@material-ui/icons/AddCircleOutlineOutlined'
+import RemoveOutlinedIcon from '@material-ui/icons/RemoveOutlined'
+import moment from 'moment'
 
 const CandidatesTableRow = ({ candidate, expand }) => {
 
@@ -19,21 +29,25 @@ const CandidatesTableRow = ({ candidate, expand }) => {
         <>
           <TableRow
         //   className={classes.root} style={rowStyle}
-          >
+          > 
             <TableCell>
-              lauren dachille
+              <Checkbox />
             </TableCell>
             <TableCell>
-              hired
+              {candidate?.name}
             </TableCell>
             <TableCell>
-              2
+            {/* assuming applications array is ordered from most current descending (if not would have to add some ordering either to BE or FE) */}
+              {candidate?.applications[0].new_status.label}
+            </TableCell>
+            <TableCell>
+              {candidate?.applications?.length}
             </TableCell>
             <TableCell padding='none' style={{ fontWeight: 'bold' }} align='left'>
-              2 years ago
+              {moment(candidate?.profile?.updated).fromNow()}
             </TableCell>
             <TableCell padding='none' style={{ fontWeight: 'bold' }} align='left'>
-              +
+              {expanded ? <RemoveOutlinedIcon /> : <AddCircleOutlineOutlinedIcon />}
             </TableCell>
             
           </TableRow>
