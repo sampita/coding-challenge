@@ -64,7 +64,7 @@ const CandidatesTableRow = ({ candidate, selectAll }) => {
                   <Table>
                     <TableBody>
                         <TableRow>
-                        <TableCell>{application.role.title}</TableCell>
+                        <TableCell style={{ width: '44%'}}>{application.role.title}</TableCell>
                         <TableCell>{application.new_status.label}</TableCell>
                         <TableCell>&nbsp;</TableCell>
                         <TableCell>&nbsp;</TableCell>
