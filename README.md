@@ -1,5 +1,14 @@
 # Sam's Coding Challenge
 
+### Setup Instructions:
+
+- Open your terminal and run `git clone [ssh key here]` to clone down project
+- Run `npm install` to update your packages
+- Run `npm start` to start the React app locally
+- Open a new terminal window, navigate to `/src/data` and run `json-server -p 5002 -w candidates.json`
+
+You should now be running the app!
+
 ### Screenshots
 
 ![Screen Shot 2021-06-15 at 8 12 22 PM](https://user-images.githubusercontent.com/42163390/122143731-a7388180-ce17-11eb-90de-bbe9cba406fa.png)
