@@ -18,7 +18,7 @@ import api from "api"
 const useStyles = makeStyles(() => ({
 }))
 
-function CandidatesTable() {
+const CandidatesTable = () => {
   const classes = useStyles()
   const [candidates, setCandidates] = useState([])
   const [selectAll, setSelectAll] = useState(false)
