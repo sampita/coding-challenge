@@ -1,15 +1,10 @@
 import React, { useState, useEffect } from "react";
 
 import {
-  Button,
   Checkbox,
   Collapse,
-  Paper,
   IconButton,
-  ListItem,
-  ListItemText,
-  Table,
-  TableBody,
+  Modal,
   TableCell,
   TableContainer,
   TableHead,
@@ -21,6 +16,7 @@ import AddCircleOutlineOutlinedIcon from "@material-ui/icons/AddCircleOutlineOut
 import RemoveOutlinedIcon from "@material-ui/icons/RemoveOutlined";
 import ArrowForwardIosIcon from "@material-ui/icons/ArrowForwardIos";
 import moment from "moment";
+import CandidatesModal from "./CandidatesModal";
 
 const useStyles = makeStyles(() => ({
   table: {
@@ -41,6 +37,10 @@ const CandidatesTableRow = ({ candidate, selectAll }) => {
   useEffect(() => {
     setSelected(selected ? true : false);
   }, [selected]);
+
+  const handleClose = () => {
+    setOpenModal(false)
+  }
 
   return (
     <>
@@ -67,6 +67,7 @@ const CandidatesTableRow = ({ candidate, selectAll }) => {
             </IconButton>
           </TableCell>
         </TableRow>
+        {/* would break the code below into its own subtable component for code organization if I had time */}
       <section>
         <Collapse in={expanded} timeout="auto" unmountOnExit>
           {candidate?.applications?.map((application) => {
@@ -78,7 +79,7 @@ const CandidatesTableRow = ({ candidate, selectAll }) => {
                   <TableCell>&nbsp;</TableCell>
                   <TableCell>&nbsp;</TableCell>
                   <TableCell>
-                    <IconButton onClick={() => setExpanded(!expanded)}>
+                    <IconButton onClick={() => setOpenModal(!openModal)}>
                       <ArrowForwardIosIcon fontSize="small" />
                     </IconButton>
                   </TableCell>
@@ -88,6 +89,7 @@ const CandidatesTableRow = ({ candidate, selectAll }) => {
           })}
         </Collapse>
       </section>
+      <CandidatesModal openModal={openModal} handleClose={handleClose} candidate={candidate}/>
     </>
   );
 };
