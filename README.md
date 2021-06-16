@@ -5,7 +5,7 @@
 - Open your terminal and run `git clone [ssh key here]` to clone down project
 - Run `npm install` to update your packages
 - Run `npm start` to start the React app locally
-- Open a new terminal window, navigate to `/src/data` and run `json-server -p 5002 -w candidates.json`
+- Open a new terminal window, navigate to `/src/data` and run `json-server -p 5002 -w candidates.json` to start the JSON server
 
 You should now be running the app!
 
