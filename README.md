@@ -12,7 +12,7 @@
 - I used MaterialUI's modal instead of the Modal included in this file purely because I am familiar with it therefore it would be quick for me to implement in this challenge.
 - I used JSON Server to serve up a fake rest API. This way I was able to make a request from the front-end to grab the data from the `candidates.json` file and parse the JSON to a javascript object
 - I wish I had time to implement the Filter. I have implemented many, many tables and filters at my current company, both with redux and Context API. Happy to chat about how I would implement it.
-- I did very basic styling but would have loved to add a bit more, including the red/yellow/green circle indicator next to the Statuses. Also happy to chat about how I would implement that if I had more time. I would either add a red/yellow/green `status_color` property on the backend since there are many variations of combinations of wors + statuses, otherwise I would use a conditional statement on the front-end to render the correct color.
+- I did very basic styling but would have loved to add a bit more, including the red/yellow/green circle indicator next to the Statuses. Also happy to chat about how I would implement that if I had more time. I would either add a red/yellow/green `status_color` property on the backend since there are many variations of combinations of words + statuses, otherwise I would use a conditional statement on the front-end to render the correct color.
 
 
 
