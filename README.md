@@ -1,3 +1,28 @@
+#Sam's Coding Challenge
+
+### Screenshots
+
+![Screen Shot 2021-06-15 at 8 12 22 PM](https://user-images.githubusercontent.com/42163390/122143731-a7388180-ce17-11eb-90de-bbe9cba406fa.png)
+![Screen Shot 2021-06-15 at 8 15 05 PM](https://user-images.githubusercontent.com/42163390/122143735-a9024500-ce17-11eb-94a8-42131d254b9d.png)
+
+### Notes from Sam
+
+- With this limited time, I chose to focus on hitting MVP and create a basic file structure containing the table and modal components
+- I used MaterialUI for my front-end components because it is both the React front-end framework I am most familiar with as well as includes built-in styling (great for this limited-time project)
+- I used MaterialUI's modal instead of the Modal included in this file purely because I am familiar with it therefore it would be quick for me to implement in this challenge.
+- I used JSON Server to serve up a fake rest API. This way I was able to make a request from the front-end to grab the data from the `candidates.json` file and parse the JSON to a javascript object
+- I wish I had time to implement the Filter. I have implemented many, many tables and filters at my current company, both with redux and Context API. Happy to chat about how I would implement it.
+- I did very basic styling but would have loved to add a bit more, including the red/yellow/green circle indicator next to the Statuses. Also happy to chat about how I would implement that if I had more time. I would either add a red/yellow/green `status_color` property on the backend since there are many variations of combinations of wors + statuses, otherwise I would use a conditional statement on the front-end to render the correct color.
+
+
+
+
+## Instructions provided:
+
+
+
+
+
 # Nimble Technical Exercise (React)
 <p>
   <p>
