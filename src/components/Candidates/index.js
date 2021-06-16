@@ -9,8 +9,8 @@ const useStyles = makeStyles((theme) => ({
     position: "fixed",
     height: "100%",
     width: "100%",
-    backgroundColor: "rgba(255, 255, 255, .6)",
-    margin: "20px",
+    backgroundColor: "#c3ede4",
+    padding: "20px",
   },
 }));
 
