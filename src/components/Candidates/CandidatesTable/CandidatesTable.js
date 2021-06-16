@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react"
 import {
-  Button,
   Checkbox,
   Paper,
   Table,
@@ -9,17 +8,11 @@ import {
   TableContainer,
   TableHead,
   TableRow,
-  Typography,
 } from "@material-ui/core"
-import { makeStyles } from '@material-ui/core/styles'
 import CandidatesTableRow from "./CandidatesTableRow"
 import api from "api"
 
-const useStyles = makeStyles(() => ({
-}))
-
 const CandidatesTable = () => {
-  const classes = useStyles()
   const [candidates, setCandidates] = useState([])
   const [selectAll, setSelectAll] = useState(false)
 
@@ -32,22 +25,22 @@ const CandidatesTable = () => {
       <Table size="small">
         <TableHead style={{ padding: "0px" }}>
           <TableRow>
-            <TableCell className={classes.tableCell} padding="none">
+            <TableCell padding="none">
               <Checkbox checked={selectAll} onChange={() => setSelectAll(!selectAll)}/>
             </TableCell>
-            <TableCell className={classes.tableCell} padding="none">
+            <TableCell padding="none">
               Candidate Name
             </TableCell>
-            <TableCell className={classes.tableCell} padding="none">
+            <TableCell padding="none">
               Status
             </TableCell>
-            <TableCell className={classes.tableCell} padding="none">
+            <TableCell padding="none">
               # Apps
             </TableCell>
-            <TableCell className={classes.tableCell} padding="none">
+            <TableCell padding="none">
               Last Action
             </TableCell>
-            <TableCell className={classes.tableCell} padding='none'>
+            <TableCell padding='none'>
                 &nbsp;
             </TableCell>
           </TableRow>
