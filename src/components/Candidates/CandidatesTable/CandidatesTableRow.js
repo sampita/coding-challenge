@@ -16,12 +16,9 @@ import AddCircleOutlineOutlinedIcon from "@material-ui/icons/AddCircleOutlineOut
 import RemoveOutlinedIcon from "@material-ui/icons/RemoveOutlined";
 import ArrowForwardIosIcon from "@material-ui/icons/ArrowForwardIos";
 import moment from "moment";
-import CandidatesModal from "./CandidatesModal";
+import CandidatesModal from "../../Applications/ApplicationModal";
 
 const useStyles = makeStyles(() => ({
-  table: {
-    // display: 'inline'
-  },
   subTable: {
       width: '100%',
   },
@@ -84,12 +81,12 @@ const CandidatesTableRow = ({ candidate, selectAll }) => {
                     </IconButton>
                   </TableCell>
                 </TableRow>
+                <CandidatesModal openModal={openModal} handleClose={handleClose} application={application} candidate={candidate}/>
               </div>
             );
           })}
         </Collapse>
       </section>
-      <CandidatesModal openModal={openModal} handleClose={handleClose} candidate={candidate}/>
     </>
   );
 };
